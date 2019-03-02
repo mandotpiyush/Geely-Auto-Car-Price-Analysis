@@ -1,4 +1,4 @@
-################### Car Price Assignment ###################
+################### Car Price Analysis ###################
 ###################      Geely Auto      ###################
 
 #Install packages
